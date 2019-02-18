@@ -14,7 +14,7 @@ We are expecting commitment to deliver outstanding capacity and results that wou
 
 We expect you to think, prototype, re-do, test, absorb feedback and start over and over again till you feel proud of the end-product. Most of your work will be used by other people for over 10+ years in production.
 
-Our technology stack:
+Our current technology stack:
 * Front-end : Javascript (ES6 only) / React.js / Redux  / D3 
 * Back-end : Node.js / Golang / Python
 * Databases : Redis / PostgreSQL 
@@ -49,10 +49,12 @@ We are building a world-class team of developers and expect everyone to become o
 * Your work might be thrown away after initial user feedback and/or extensive A/B testing 
 * Understand deeply human phycology, sales culture, be prepared to meet lots of people from different backgrounds and places
 * Negotiate with back-end teams
+* Dive into [Senior Developer Career Path](SENIOR.md)
 
 *Requirements*
-* 1+ years experience UI/UX. You know how to start from mock-up or sketch file, and finish with a real life UI binded to various API data sources 
+* 1+ years experience UI/UX
 * 1+ years experience with back-end in Node.js, Golang or Python
+* Abilitity to start from mock-up or sketch file, and finish with a real life UI binded to various API data sources 
 
 Review our [Front-end Development Principles](Front-end_Development_Principles.md)
 
@@ -73,13 +75,15 @@ We are building a world-class team of developers and expect everyone to become o
 * Low level systems troubleshooting and debugging skills (CPU/memory profiling, in-depth Linux knowledge)
 
 *Be ready*
-* To rethink your ideas over and over.
+* To rethink your ideas over and over
 * Use less tools, libraries. Simply DevOps in order to decrease complexity and relying on "one-man expertise" bottle-neck. 
 * Decouple dependencies for greater code stability 
 * Do Data research 
+* Use Node.js for quick API prototyping and do Golang for high-load and pretty much everything else ;) 
 * Use Python for quick Scrapping and Data Visualization, and later on re-write lot of lines of codes in Golang 
 * Help Front-end to generate test data-set and setup UI testing. Ex, Selenium, Headless Chrome, etc 
 * Do constant knowledge sharing
+* Dive into [Senior Developer Career Path](SENIOR.md)
 
 *Requirements* 
 * 1+ years experience with low C-family programming language
@@ -88,7 +92,7 @@ We are building a world-class team of developers and expect everyone to become o
 Go through [Golang Developer Check List](Golang_Check_List.md)
 
 # Career Path
-* [Senior Developer Path](SENIOR.md)
+
  
 
 
