@@ -21,6 +21,15 @@ Our technology stack:
 * Security : ACL / JWT  
 
 
+# Facts about Adeptima:
+* Though we speak fluently many languages, most of our internal communications are in English
+* Our work culture is very closed to Ray Dalio's Bridgewater, and based on Meritocracy and Radical Transparency principles https://www.principles.com/ 
+* Most of our clients came to us through recommendations. We work with the largest Asian unicorns, top global technology companies and most promising start-ups from the San Francisco/Bay area, Japan, Hong Kong and Singapore for the past 15 years
+* We are very picky both with our new clients and employees as we invest heavily in relationships and personal development.
+* We value processes more than results. When you commit to the process - never giving up, creatively overcoming setbacks and obstacles, trying new strategies - a powerful things happen. You will transform yourself in the process - results will follow
+* Our friendly team is distributed across multiple timezones, and we get together in various locations across the globe quite often
+
+
 #adeptima/front-end
 
 #reactjs #redux #javascript #front
@@ -45,7 +54,7 @@ We are building a world-class team of developers and expect everyone to become o
 * 1+ years experience UI/UX. You know how to start from mock-up or sketch file, and finish with a real life UI binded to various API data sources 
 * 1+ years experience with back-end in Node.js, Golang or Python
 
-Review our [Front-end Development Principles](https://gist.github.com/reactima/155f931c433986d128e714c1f96dc8a3)
+Review our [Front-end Development Principles](Front-end_Development_Principles.md)
 
 Feel free to contact https://t.me/reactima to introduce yourself. You will be asked for CV or Linkedin profile. Adding screenshots of applications you built recently is welcomed. 
 
@@ -76,22 +85,11 @@ We are building a world-class team of developers and expect everyone to become o
 * 1+ years experience with low C-family programming language
 * 1+ years experience with Python or Node.js
 
-Go through [Golang Developer Check List](https://gist.github.com/reactima/b5fad648df0d495b540bea02cbb9c1ed#golang-developer-check-list)
-
-# Facts about Adeptima:
-* Though we speak fluently many languages, most of our internal communications are in English
-* Our work culture is very closed to Ray Dalio's Bridgewater, and based on Meritocracy and Radical Transparency principles https://www.principles.com/ 
-* Most of our clients came to us through recommendations. We work with the largest Asian unicorns, top global technology companies and most promising start-ups from the San Francisco/Bay area, Japan, Hong Kong and Singapore for the past 15 years
-* We are very picky both with our new clients and employees as we invest heavily in relationships and personal development.
-* We value processes more than results. When you commit to the process - never giving up, creatively overcoming setbacks and obstacles, trying new strategies - a powerful things happen. You will transform yourself in the process - results will follow
-* Our friendly team is distributed across multiple timezones, and we get together in various locations across the globe quite often
+Go through [Golang Developer Check List](Golang_Check_List.md)
 
 # Career Path
-Here's your set of skillsif you join us 
-* [Senior Developer Skills](SENIOR.md)
-
-Agile Manifesto says "Individuals and Interactions over processes and tools" ... and here is our thoughts career path and tools for Senior Developer 
-
+* [Senior Developer Path](SENIOR.md)
  
+
 
 Feel free to contact https://t.me/reactima or ilya@adeptima.co.uk to introduce yourself. You will be asked for CV or Linkedin profile. Brief outline of applications you built recently will be a big plus. 

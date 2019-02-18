@@ -1,14 +1,20 @@
-### Golang Dev, In-house 
-- 1+ years of server-side software development experience
+# Senior Developer Path
+
+Agile Manifesto says "Individuals and Interactions over processes and tools" ... and yet here some thoughts on possible career path ... and tools 
+
+### Junior Back-end Developer, In-house 
+CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY 
+- 1+ years of server-side software development experience with Go, Python or Node.js
 - CODE Postgres, Redis, ElasticSearch
 - CODE RESTful + Websockets
 - CODE Unit and integration testing 
 - CODE Code Style 
 - CODE Security OWASP, Pentesting, IR :: See SEC504: Hacker Tools, Techniques, Exploits, and Incident Handling, https://www.sans.org/course/hacker-techniques-exploits-incident-handling
-- DEVOPS Linux Ubuntu Docker  
+- DEPLOY Basic DevOps with Linux (Ubuntu), Docker, etc  
 - CODE Git
 
-### Front-end, In-house 
+### Junior Front-end Developer, In-house 
+CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY 
 - CODE 3+ years of full-stack experience in Golang|Nodejs|Python with at least REST & WebSockets coding experience
 - CODE Reactjs + 2nd! option Vuejs
 - CODE ES6+ 
@@ -16,7 +22,7 @@
 - CODE SASS, Flexbox, CSS3+
 - CODE Git
 
-If you are confident wit the above, ask for a test assignment so you can acquire the following through your career with us
+If you are confident with the above, ask for a test assignment so you can acquire the following through your career with us
 
 #### Adeptima Front Test Assignment 
 https://docs.google.com/document/d/1sY5InmugcuGnhFDK2tsZRHBYPFJP6cjWmdIftB5EGOM/edit 
