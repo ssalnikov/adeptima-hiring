@@ -66,7 +66,9 @@ PLAN >> CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY (AWS or K8S, GCP) >> OPERATE
 - CODE Reactjs Performance Checklist ???
 - CODE FP functional programming https://github.com/getify/Functional-Light-JS
 - CODE GraphQL
-- CODE React Native ???
+- CODE React Native 
+- CODE Expert level in real-time error anc click tracking, heatmaps tools, etc. Ex, [Sentry](https://sentry.io/), [ES/Kibana](https://www.elastic.co/products/kibana)
+- CODE Deep knowledge of [D3.js](https://d3js.org/) components and demonstrate the ability to build outstanding visualization from scratch
 
 ### Git
 - Pro Git: https://git-scm.com/book/en/v2
