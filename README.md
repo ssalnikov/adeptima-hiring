@@ -40,8 +40,6 @@ We are building a world-class team of developers and expect everyone to become o
 *You will have*
 * Solid understanding of React.js / Redux ecosystem and its tools Webpack, Babel, ESLint, etc
 * Guru level of knowledge how to build a world-class UI / UX experience
-* Expert level in real-time error anc click tracking, heatmaps tools, etc. Ex, [Sentry](https://sentry.io/), [ES/Kibana](https://www.elastic.co/products/kibana)
-* Deep knowledge of [D3.js](https://d3js.org/) components and demonstrate the ability to build outstanding visualization from scratch
 
 *Be ready to*
 * Re-design your components over and over again. Some of your work might stay in production for over 10+ years
