@@ -71,13 +71,7 @@ PLAN >> CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY (AWS or K8S, GCP) >> OPERATE
 - CODE Deep knowledge of [D3.js](https://d3js.org/) components and demonstrate the ability to build outstanding visualization from scratch
 
 ### Git
-- Pro Git: https://git-scm.com/book/en/v2
-- How to teach Git, Rachel M. Carmena https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
-- Flight rules for Git https://github.com/k88hudson/git-flight-rules
-- Become a git guru, Atlassian https://www.atlassian.com/git/tutorials
-- Welcome to Learn Git Branching ;) https://learngitbranching.js.org/
-- Git from the bottom up, John Wiegley http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
-
+See [GIT.md](GIT.md)
 
 #### Community Leaders & Trend-setter
 - https://www.ardanlabs.com/ << copy business approach?
