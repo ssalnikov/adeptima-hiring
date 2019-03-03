@@ -130,3 +130,11 @@ git push
 - When the PR's approved and the code is tested, `squash and merge` to squash your commits into a single commit.
 - Open a Pull Request against `develop` (may need to rebase first).
 - Tag a release on `master`. Describe the issue in the name, feel free to put details in the description.
+
+### Advanced Git
+- Pro Git: https://git-scm.com/book/en/v2
+- How to teach Git, Rachel M. Carmena https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
+- Flight rules for Git https://github.com/k88hudson/git-flight-rules
+- Become a git guru, Atlassian https://www.atlassian.com/git/tutorials
+- Welcome to Learn Git Branching ;) https://learngitbranching.js.org/
+- Git from the bottom up, John Wiegley http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
