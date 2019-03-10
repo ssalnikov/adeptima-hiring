@@ -55,6 +55,7 @@ PLAN >> CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY (AWS or K8S, GCP) >> OPERATE
 - DEPLOY Experience with cloud computing platforms (AWS or K8S, GCP)
 - DEPLOY CI CircleCI/Travis/Jenkins/Drone
 - MONITOR Dashboards, Kibana, Graphana
+- MONITOR https://sentry.io/
 - MONITOR XXX for Front-end Usability, Performance
 
 ### Senior Full-stack Dev, Outsourcing , Reactjs + (Golang|Nodejs|Python + Reactjs)
@@ -69,6 +70,7 @@ PLAN >> CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY (AWS or K8S, GCP) >> OPERATE
 - CODE React Native 
 - CODE Expert level in real-time error anc click tracking, heatmaps tools, etc. Ex, [Sentry](https://sentry.io/), [ES/Kibana](https://www.elastic.co/products/kibana)
 - CODE Deep knowledge of [D3.js](https://d3js.org/) components and demonstrate the ability to build outstanding visualization from scratch
+- MONITOR https://sentry.io/
 
 ### Git
 See [GIT.md](GIT.md)
