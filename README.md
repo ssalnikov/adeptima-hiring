@@ -12,14 +12,6 @@ HeadHunting CRM (HH CRM) is a social sourcing and recruiter CRM application that
 
 We are expecting commitment to deliver outstanding capacity and results that would exceed our client's expectations and are focusing on long-term vision and quality excelence. Adeptima is a profitable, successful and sustainble company. All our projects are self-funded, and we are not looking for outside investors help and quick,high growth solutions. Adeptima is a product-driven company with developers who are capable of taking full ownership of their projects.
 
-We expect you to think, prototype, re-do, test, absorb feedback and start over and over again till you feel proud of the end-product. Most of your work will be used by other people for over 10+ years in production.
-
-Our current technology stack:
-* Front-end : Javascript (ES6 only) / React.js / Redux / D3
-* Back-end : Node.js / Golang / Python
-* Databases : PostgreSQL / Redis
-* Security : ACL / JWT
-
 
 # Facts about Adeptima:
 * Though we speak fluently many languages, most of our internal communications are in English
@@ -56,9 +48,6 @@ We are building a world-class team of developers and expect everyone to become o
 
 Review our [Front-end Development Principles](Front-end_Development_Principles.md)
 
-Feel free to contact https://t.me/reactima to introduce yourself. You will be asked for CV or Linkedin profile. Adding screenshots of applications you built recently is welcomed.
-
-
 #adeptima/back-end
 
 #golang #postgres #go
@@ -89,9 +78,17 @@ We are building a world-class team of developers and expect everyone to become o
 
 Go through [Golang Developer Check List](Golang_Check_List.md)
 
-# Career Path
+# Focus
 
+We expect you to think, prototype, re-do, test, absorb feedback and start over and over again till you feel proud of the end-product. Most of your work will be used by other people for over 10+ years in production.
 
-
+Our current technology stack:
+* Front-end : Javascript (ES6 only) / React.js / Redux / D3
+* Back-end : Node.js / Golang / Python
+* Databases : PostgreSQL
+* Security : ACL / JWT
+* DevOps: AWS / TerraForm
+* CI/CD: Drone.io
+* Communications: Slack, Github ;)
 
 Feel free to contact https://t.me/reactima or ilya@adeptima.co.uk to introduce yourself. You will be asked for CV or Linkedin profile. Brief outline of applications you built recently will be a big plus.
