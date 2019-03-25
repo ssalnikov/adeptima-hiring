@@ -1,9 +1,11 @@
-### React Slider with D3.js line chart
+### Test Assignment 01 : React Slider with D3.js line chart
 
-Build the slide like this 
+It's great to see you here! If you are interested to work with us, please consider to work on the following test assignment. This is a real project!, and it would be great to use your code in production.
+
+
 ![Slider](img/01-slider.png)
 
-Feature 
+### Features 
 - From __ to __ input fields 
 - Reset to full range 
 - Optional labels "Years fo experience" and "years"
@@ -36,4 +38,7 @@ Feature
 - The end result should be a clean component with no dependencies except React.js itself and D3.js subpackages
 - We are not expecting it to be a free job. Please request a fair remuneration for successful completion with the strict !!! end of the project date. If you can't deliver on time, we are not paying for your test assignment work. 
 
+
+### Questions
+- Email questions to @reactima on [1@ilya1.com](mailto:1@ilya1.com) 
 
