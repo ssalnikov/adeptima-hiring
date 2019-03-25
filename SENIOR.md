@@ -12,7 +12,6 @@ CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY
 - CODE Postgres, Redis, ElasticSearch
 - CODE RESTful + Websockets
 - DEPLOY Basic DevOps with Linux (Ubuntu), Docker, etc
-- CODE Security OWASP, Pentesting, IR :: See SEC504: Hacker Tools, Techniques, Exploits, and Incident Handling, https://www.sans.org/course/hacker-techniques-exploits-incident-handling
 
 ### Junior Front-end Developer, In-house
 CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY
@@ -49,6 +48,7 @@ PLAN >> CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY (AWS or K8S, GCP) >> OPERATE
 - CODE FRAMEWORKS GO Beego, Gorilla Toolkit, Martini, Gin, Echo, Buffalo, Gorm.
 - CODE FRAMEWORKS Python Django, Django Rest Framework, SQLAchemy, Tornado.
 - CODE FRAMEWORKS Nodejs Express.js, Next.js, GraphQL https://nextjs.org/
+- CODE Security OWASP, Pentesting, IR :: See SEC504: Hacker Tools, Techniques, Exploits, and Incident Handling, https://www.sans.org/course/hacker-techniques-exploits-incident-handling
 - TEST Unit testing and BDD testing both for Front & Back
 - BUILD Experience with Continuous Integration, Unit and Integration Testing, BDD
 - BUILD IaaS - AWS CloudFormation (OLD!), Terraforms
