@@ -34,9 +34,15 @@ It's great to see you here! If you are interested to work with us, please consid
 ### Important !!!
 - No typescript. We use Flow cause it's optional and easy to reuse/drop on other projects
 - Use react-slingshot boiler plate for a quick start https://github.com/coryhouse/react-slingshot  
-- Study https://sass-lang.com/ Put all styles in /scss/ folder. We don't use inline CSS! 
+- Study SCSS, https://sass-lang.com/ 
+- We don't use CSS-in-JS library in-house. Ex: Emotion, https://github.com/emotion-js/emotion 
 - The end result should be a clean component with no dependencies except React.js itself and D3.js subpackages
-- We are not expecting it to be a free job. Please request a fair remuneration for successful completion with the strict !!! end of the project date. If you can't deliver on time, we are not paying for your test assignment work. 
+- COMPENSATION We are not expecting this project to be a free job!
+  - Please request a fair remuneration for successful completion with the strict !!! end of the project date
+  - Feel free to request one or two days to think about the project
+  - If you feel, you can't deliver on time, please inform us in advance. Respect your credebility, let someone else to work on this project
+  - If you can't deliver on time, we are not paying for your test assignment work. Respect deadlines!
+  - If you are applying for Junior Developer role, please feel free to request up to 3 months time to work on this project
 
 
 ### Questions
