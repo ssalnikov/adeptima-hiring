@@ -31,8 +31,6 @@ https://docs.google.com/document/d/1sY5InmugcuGnhFDK2tsZRHBYPFJP6cjWmdIftB5EGOM/
 https://docs.google.com/document/d/1THmoEl837mnMhMvzk4270zWigRVVuMsVq0WBfJSGunU/edit
 
 
-
-
 ### Senior Golang Dev, Outsourcing
 PLAN >> CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY (AWS or K8S, GCP) >> OPERATE >> MONITOR
 - PLAN Knowledge of Scrum and agile principles
@@ -72,49 +70,9 @@ PLAN >> CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY (AWS or K8S, GCP) >> OPERATE
 - CODE Deep knowledge of [D3.js](https://d3js.org/) components and demonstrate the ability to build outstanding visualization from scratch
 - MONITOR https://sentry.io/
 
-### Git
+### SEE
 See [GIT.md](GIT.md)
-
-#### Community Leaders & Trend-setter
-- https://www.ardanlabs.com/ << copy business approach?
-- https://dave.cheney.net/  <<< steal topics?
-- https://blog.golang.org/ <<< know all?
-- https://golangweekly.com/issues
-- https://golangnews.com/
-- https://github.com/trending/go?since=monthly
-- https://www.reddit.com/r/golang/
-- https://github.com/avelino/awesome-go
-
-### Go-micro
-We are considering to use Go Micro to abstract away the details of distributed systems. Here are the main features:
-
--   **Service Discovery**  - Automatic service registration and name resolution
--   **Load Balancing**  - Client side load balancing built on discovery
--   **Message Encoding**  - Dynamic encoding based on content-type with protobuf and json support
--   **Sync Streaming**  - RPC based communication with support for bidirectional streaming
--   **Async Messaging**  - Native PubSub messaging built in for event driven architectures
-
-Go Micro supports both the Service and Function programming models. Read on to learn more.
-
-#### Go-micro Enterprise
--   secure by default: tls enabled
--   authentication: rbac and service-to-service
--   central control plane
--   circuit breaking
--   rate limiting
--   distributed tracing
--   intelligent routing
--   metric instrumentation
--   performance tuned
--   config reloading
--   dynamic plugin loading
-
-#### Go-micro Links
--   https://github.com/micro/go-micro
--   https://github.com/micro/enterprise
--   https://micro.mu/pricing/
--   https://backy.io/features/
-
+See [Golang_Check_List.md](Golang_Check_List.md)
 
 #### Vendors & Projects
 Follow vendors, communities, events to be in the trend ... TODO list engineering blogs
