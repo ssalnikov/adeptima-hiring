@@ -38,11 +38,52 @@ Here’s that we discuss during the interview.
     * Dave Cheney Blog: dave.cheney.net [@davecheney](https://twitter.comdavecheney) [github.com/davecheney](https://github.com/davecheney)
     * [Подкаст GolangShow](https://golangshow.com/)
     * https://golangnews.com
-
+    
 
 ### Unsorted
 * https://github.com/quii/learn-go-with-tests
-* ttps://github.com/hoanhan101/ultimate-go
+* https://github.com/hoanhan101/ultimate-go
 * https://github.com/Alikhll/golang-developer-roadmap
 * https://github.com/ardanlabs/gotraining/blob/master/topics/go/README.md#design-guidelines
 * http://sijinjoseph.com/programmer-competency-matrix/
+
+
+#### Community Leaders & Trend-setter
+- https://www.ardanlabs.com/ << copy business approach?
+- https://dave.cheney.net/  <<< steal topics?
+- https://blog.golang.org/ <<< know all?
+- https://golangweekly.com/issues
+- https://golangnews.com/
+- https://github.com/trending/go?since=monthly
+- https://www.reddit.com/r/golang/
+- https://github.com/avelino/awesome-go
+
+### Go-micro
+We are considering to use Go Micro to abstract away the details of distributed systems. Here are the main features:
+
+-   **Service Discovery**  - Automatic service registration and name resolution
+-   **Load Balancing**  - Client side load balancing built on discovery
+-   **Message Encoding**  - Dynamic encoding based on content-type with protobuf and json support
+-   **Sync Streaming**  - RPC based communication with support for bidirectional streaming
+-   **Async Messaging**  - Native PubSub messaging built in for event driven architectures
+
+Go Micro supports both the Service and Function programming models. Read on to learn more.
+
+#### Go-micro Enterprise
+-   secure by default: tls enabled
+-   authentication: rbac and service-to-service
+-   central control plane
+-   circuit breaking
+-   rate limiting
+-   distributed tracing
+-   intelligent routing
+-   metric instrumentation
+-   performance tuned
+-   config reloading
+-   dynamic plugin loading
+
+#### Go-micro Links
+-   https://github.com/micro/go-micro
+-   https://github.com/micro/enterprise
+-   https://micro.mu/pricing/
+-   https://backy.io/features/
