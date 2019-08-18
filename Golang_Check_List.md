@@ -39,3 +39,10 @@ Here’s that we discuss during the interview.
     * [Подкаст GolangShow](https://golangshow.com/)
     * https://golangnews.com
 
+
+### Unsorted
+* https://github.com/quii/learn-go-with-tests
+* ttps://github.com/hoanhan101/ultimate-go
+* https://github.com/Alikhll/golang-developer-roadmap
+* https://github.com/ardanlabs/gotraining/blob/master/topics/go/README.md#design-guidelines
+* http://sijinjoseph.com/programmer-competency-matrix/
