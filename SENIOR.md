@@ -37,6 +37,7 @@ PLAN >> CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY (AWS or K8S, GCP) >> OPERATE
 - PLAN 5+ years expertise in building Scalable, Distributed, Loosely Coupled Systems
 - PLAN Experience with Micro-Services, RESTful services, gRPC (Go-micro, GRPC-Gateway etc.), Web-Sockets ...
 - PLAN Experience with Event Driven Architecture https://ewanvalentine.io/microservices-in-golang-part-5/
+- PLAN Design APIs
 - CODE Knowledge of serverless computing - AWS Lambda !!! (Python, Go or Node), Azure Functions etc.
 - CODE 3+ years of server-side software development experience
 - CODE DB AWS DynamoDB, AWS RDS, Postgres, MongoDB
@@ -70,9 +71,18 @@ PLAN >> CODE >> BUILD >> TEST >> RELEASE >>> DEPLOY (AWS or K8S, GCP) >> OPERATE
 - CODE Deep knowledge of [D3.js](https://d3js.org/) components and demonstrate the ability to build outstanding visualization from scratch
 - MONITOR https://sentry.io/
 
+### Design APIs 
+- OpenAPI 3
+- Versioning
+- Important to maintain retro-compatibility
+- Security and data protection - GDPR, HIPAA (US)
+- Advance encryption and security for some verticals (banks, insurance, governments)
+- OWASP TOP 10
+- Penetration testing, security audits
+
 ### SEE
-See [GIT.md](GIT.md)
-See [Golang_Check_List.md](Golang_Check_List.md)
+* [GIT.md](GIT.md)
+* [Golang_Check_List.md](Golang_Check_List.md)
 
 #### Vendors & Projects
 Follow vendors, communities, events to be in the trend ... TODO list engineering blogs
