@@ -39,3 +39,4 @@ https://github.com/rigtorp/awesome-modern-cpp
 
 ### Other 
 * OpenCV Conan package making off and future challenges https://blog.conan.io/2019/02/11/OpenCV-conan-packages.html
+* CppCon 2019: Charles Bay “C++ ...Easy, Elegant, Powerful!” https://www.youtube.com/watch?v=8FYzkuRsNto
