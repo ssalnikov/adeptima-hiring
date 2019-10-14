@@ -27,8 +27,11 @@ https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software
 **Codecs** - audio, video, compression  
 
 **Node.js modules** https://github.com/nwjs/nw.js
+
 **RethinkDB** https://github.com/rethinkdb/rethinkdb
+
 **Google Protobuf** https://github.com/protocolbuffers/protobuf
+
 **Tesseract OCR**  https://github.com/tesseract-ocr
 
 **Unreal Engine** https://www.unrealengine.com/en-US/
