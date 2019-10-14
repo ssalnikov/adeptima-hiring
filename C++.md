@@ -22,19 +22,26 @@ Comparison of deep-learning software
 https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software
 
 
-**IoT** - ??? for C++ ... and probably Rust 
+### IoT
+* ??? for C++ ... and probably Rust 
 
-**Codecs** - audio, video, compression  
+### Codecs  
+* **Tesseract OCR**  https://github.com/tesseract-ocr
+* Tons of audio, video, compression
 
-**Node.js modules** https://github.com/nwjs/nw.js
 
-**RethinkDB** https://github.com/rethinkdb/rethinkdb
+### DB
+* **RethinkDB** https://github.com/rethinkdb/rethinkdb
+* PostgreSQL, SQLlite are written in C
 
-**Google Protobuf** https://github.com/protocolbuffers/protobuf
-
-**Tesseract OCR**  https://github.com/tesseract-ocr
-
+### Gaming Engines 
 **Unreal Engine** https://www.unrealengine.com/en-US/
+
+### Niche
+* **Google Protobuf** https://github.com/protocolbuffers/protobuf
+* **Node.js modules** https://github.com/nwjs/nw.js
+
+### Trending Awesome
 
 https://github.com/trending/c++
 https://github.com/fffaraz/awesome-cpp
